@@ -8,7 +8,7 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent">
 
-        <in.hotchpotch.android.yabiseitokei.ImageLoader android:id="@+id/image"
+        <in.hotchpotch.android.yabiseitokei2.ImageLoader android:id="@+id/image"
                     android:background="#FF000000"
                     android:layout_width="fill_parent"
                     android:layout_height="fill_parent" />

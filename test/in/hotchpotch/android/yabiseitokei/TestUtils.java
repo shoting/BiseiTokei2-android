@@ -1,6 +1,7 @@
 package in.hotchpotch.android.yabiseitokei;
 
 import static org.junit.Assert.*;
+import in.hotchpotch.android.yabiseitokei2.Utils;
 
 import org.junit.Test;
 

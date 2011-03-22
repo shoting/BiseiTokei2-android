@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string-array name="acts">
-		<item>@string/ai_nonaka</item>
-		<item>@string/yuka_saitou</item>
-		<item>@string/tomoko_kaneda</item>
-		<item>@string/yui_kano</item>
-		<item>@string/ryouko_siraisi</item>
-		<item>@string/satomi_satou</item>
-		<item>@string/akemi_kanda</item>
-		<item>@string/kanae_itou</item>
-		<item>@string/houko_kuwashima</item>
-		<item>@string/ryo_hirohashi</item>
-		<item>@string/mai_aizawa</item>
-		<item>@string/masumi_asano</item>
+		<item>@string/rie_tanka</item>
+		<item>@string/chiaki_takahashi</item>
+		<item>@string/asami_imai</item>
+		<item>@string/yuuko_gotou</item>
+		<item>@string/saori_gotou</item>
+		<item>@string/ami_koshimizu</item>
+		<item>@string/yuko_kaida</item>
+		<item>@string/hiromi_konno</item>
+		<item>@string/marina_inoue</item>
+		<item>@string/ayumi_fujimura</item>
+		<item>@string/yuu_kobayashi</item>
+		<item>@string/kana_asumi</item>
 	</string-array>
-
+    
 	<string-array name="prefs_timetones">
 		<item>@string/prefs_timetone_serif_every</item>
 		<item>@string/prefs_timetone_serif</item>

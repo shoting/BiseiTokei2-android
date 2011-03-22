@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yet Another 美聲時計</string>
+    <string name="dir_not_found">資料夾  %s 找不到。</string>
+
+    <string name="sayyou">聲優</string>
+    <string name="sayyou_summary">聲優個別設定</string>
+
+    <string name="time_tone_play">播放報時</string>
+
+    <string name="settings">設定</string>
+    <string name="time_tone">報時</string>
+    <string name="time_tone_summary">報時區間設定</string>
+    <string name="wakelock_title">保持喚醒</string>
+    <string name="wakelock_summary">啟動時不會進入休眠</string>
+
+    <string name="ignore_silent_title">忽略靜音模式</string>
+    <string name="ignore_silent_summary">靜音模式時仍然報時。</string>
+
+    <string name="prefs_timetone_serif_every">台詞+毎分</string>
+    <string name="prefs_timetone_serif">台詞(每10分)</string>
+    <string name="prefs_timetone_every">毎分</string>
+    <string name="prefs_timetone_none">無</string>
+
+
+
+    <string name="rie_tanka">田中理恵</string>
+    <string name="chiaki_takahashi">高橋智秋</string>
+    <string name="asami_imai">今井麻美</string>
+    <string name="yuuko_gotou">後藤邑子</string>
+    <string name="saori_gotou">後藤沙緒里</string>
+    <string name="ami_koshimizu">小清水亜美</string>
+    <string name="yuko_kaida">甲斐田裕子</string>
+    <string name="hiromi_konno">今野宏美</string>
+    <string name="marina_inoue">井上麻里奈</string>
+    <string name="ayumi_fujimura">藤村歩</string>
+    <string name="yuu_kobayashi">小林優</string>
+    <string name="kana_asumi">阿澄佳奈</string>
+</resources>

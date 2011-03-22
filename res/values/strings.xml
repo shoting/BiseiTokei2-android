@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World!</string>
     <string name="app_name">Yet Another BiseiTokei</string>
     <string name="dir_not_found">Dir %s not found.</string>
 
@@ -13,26 +12,27 @@
     <string name="time_tone">Time Tone</string>
     <string name="time_tone_summary">Time tone settings</string>
     <string name="wakelock_title">WeakLock</string>
-    <string name="wakelock_summary">Don't shift to the standby</string>
+    <string name="wakelock_summary">Don\'t shift to the standby</string>
 
     <string name="ignore_silent_title">Ignore Silent Mode</string>
     <string name="ignore_silent_summary">Enable voice if silent mode.</string>
 
     <string name="prefs_timetone_serif_every">All</string>
-    <string name="prefs_timetone_serif">Speech only (15min)</string>
+    <string name="prefs_timetone_serif">Speech only (10min)</string>
     <string name="prefs_timetone_every">Time tone(1min)</string>
     <string name="prefs_timetone_none">None</string>
 
-    <string name="ai_nonaka">Ai Nonaka</string>
-    <string name="yuka_saitou">Yuka Saitou</string>
-    <string name="tomoko_kaneda">Tomoko Kaneda</string>
-    <string name="yui_kano">Yui Kano</string>
-    <string name="ryouko_siraisi">Ryouko Siraisi</string>
-    <string name="satomi_satou">Satomi Satou</string>
-    <string name="akemi_kanda">Akemi Kanda</string>
-    <string name="kanae_itou">Kanae Itou</string>
-    <string name="houko_kuwashima">Houko Kuwashima</string>
-    <string name="ryo_hirohashi">Ryo Hirohashi</string>
-    <string name="mai_aizawa">Mai Aizawa</string>
-    <string name="masumi_asano">Masumi Asano</string>
+
+    <string name="rie_tanka">Rie Tanaka</string>
+    <string name="chiaki_takahashi">Chiaki Takahashi</string>
+    <string name="asami_imai">Asami Imai</string>
+    <string name="yuuko_gotou">Yuuko Gotou</string>
+    <string name="saori_gotou">Saori Gotou</string>
+    <string name="ami_koshimizu">Ami Koshimizu</string>
+    <string name="yuko_kaida">Yuko Kaida</string>
+    <string name="hiromi_konno">Hiromi Konno</string>
+    <string name="marina_inoue">Marina Inoue</string>
+    <string name="ayumi_fujimura">Ayumi Fujimura</string>
+    <string name="yuu_kobayashi">Yuu Kobayashi</string>
+    <string name="kana_asumi">Kana Asumi</string>
 </resources>
